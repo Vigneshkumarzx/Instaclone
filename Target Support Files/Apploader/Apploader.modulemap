@@ -1,0 +1,6 @@
+framework module Apploader {
+  umbrella header "Apploader-umbrella.h"
+
+  export *
+  module * { export * }
+}
